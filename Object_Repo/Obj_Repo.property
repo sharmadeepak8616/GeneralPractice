@@ -1,0 +1,4 @@
+URL=http://demosite.center/wordpress/wp-login.php
+wordpress.username.xpath=.//*[@id='user_login']
+wordpress.password.xpath=.//*[@id='user_pass']
+wordpress.loginbutton.xpath=.//*[@id='wp-submit']

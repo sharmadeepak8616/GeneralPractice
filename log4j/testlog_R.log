@@ -1,0 +1,34 @@
+2017-08-25 01:51:24,153 - Report_log4j_Apache -INFO - Browser started
+2017-08-25 01:51:29,075 - Report_log4j_Apache -INFO - Website started
+2017-08-25 01:51:29,083 - Report_log4j_Apache -INFO - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:51:29,395 - Report_log4j_Apache -INFO - Click on search button
+2017-08-25 01:51:29,401 - Report_log4j_Apache -INFO - Alert reference created
+2017-08-25 01:51:29,405 - Report_log4j_Apache -INFO - Alert MessagePlease select start place.
+2017-08-25 01:51:29,657 - Report_log4j_Apache -INFO - Alert accepted
+2017-08-25 01:52:27,763 - Report_log4j_Apache -INFO - Browser started for testcase - Report_log4j_Apache
+2017-08-25 01:52:32,626 - Report_log4j_Apache -INFO - Website started
+2017-08-25 01:52:32,634 - Report_log4j_Apache -INFO - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:52:32,914 - Report_log4j_Apache -INFO - Click on search button
+2017-08-25 01:52:32,919 - Report_log4j_Apache -INFO - Alert reference created
+2017-08-25 01:52:32,922 - Report_log4j_Apache -INFO - Alert MessagePlease select start place.
+2017-08-25 01:52:33,158 - Report_log4j_Apache -INFO - Alert accepted
+2017-08-25 01:56:05,290 - Report_log4j_Apache -INFO - Browser started for testcase - Report_log4j_Apache
+2017-08-25 01:56:10,885 - Report_log4j_Apache -INFO - Website started
+2017-08-25 01:56:10,894 - Report_log4j_Apache -INFO - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:56:11,180 - Report_log4j_Apache -INFO - Clicked on search button
+2017-08-25 01:56:11,185 - Report_log4j_Apache -INFO - Alert reference created
+2017-08-25 01:56:11,189 - Report_log4j_Apache -INFO - Alert Message - Please select start place.
+2017-08-25 01:56:11,442 - Report_log4j_Apache -INFO - Alert accepted
+2017-08-25 01:56:11,522 - Report_log4j_Apache -INFO - Browser quit
+2017-08-25 04:03:27,263 - coolTipManage -INFO - Started logging for testcase - coolTipManage
+2017-08-25 04:03:29,165 - coolTipManage -INFO - Browser started
+2017-08-25 04:03:29,185 - coolTipManage -INFO - Event object created
+2017-08-25 04:03:29,186 - coolTipManage -INFO - Listener object created
+2017-08-25 04:03:29,186 - coolTipManage -INFO - Register listener with event object
+2017-08-25 04:03:30,294 - coolTipManage -INFO - Website started
+2017-08-25 04:03:30,308 - coolTipManage -INFO - Page title printed as - "Create your Google Account"
+2017-08-25 04:03:30,711 - coolTipManage -INFO - Filled value and clicked to get bubble
+2017-08-25 04:03:31,769 - coolTipManage -INFO - Moved mouse to bubble
+2017-08-25 04:03:31,794 - coolTipManage -INFO - Compared bubble text
+2017-08-25 04:03:31,868 - coolTipManage -INFO - Website closed
+2017-08-25 04:03:31,869 - coolTipManage -INFO - Unregister event handle from listener

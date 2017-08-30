@@ -1,0 +1,42 @@
+2017-08-25 01:51:24,153 [main] INFO Report_log4j_Apache - Browser started
+2017-08-25 01:51:29,075 [main] INFO Report_log4j_Apache - Website started
+2017-08-25 01:51:29,083 [main] INFO Report_log4j_Apache - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:51:29,395 [main] INFO Report_log4j_Apache - Click on search button
+2017-08-25 01:51:29,401 [main] INFO Report_log4j_Apache - Alert reference created
+2017-08-25 01:51:29,405 [main] INFO Report_log4j_Apache - Alert MessagePlease select start place.
+2017-08-25 01:51:29,657 [main] INFO Report_log4j_Apache - Alert accepted
+2017-08-25 01:52:27,763 [main] INFO Report_log4j_Apache - Browser started for testcase - Report_log4j_Apache
+2017-08-25 01:52:32,626 [main] INFO Report_log4j_Apache - Website started
+2017-08-25 01:52:32,634 [main] INFO Report_log4j_Apache - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:52:32,914 [main] INFO Report_log4j_Apache - Click on search button
+2017-08-25 01:52:32,919 [main] INFO Report_log4j_Apache - Alert reference created
+2017-08-25 01:52:32,922 [main] INFO Report_log4j_Apache - Alert MessagePlease select start place.
+2017-08-25 01:52:33,158 [main] INFO Report_log4j_Apache - Alert accepted
+2017-08-25 01:56:05,290 [main] INFO Report_log4j_Apache - Browser started for testcase - Report_log4j_Apache
+2017-08-25 01:56:10,885 [main] INFO Report_log4j_Apache - Website started
+2017-08-25 01:56:10,894 [main] INFO Report_log4j_Apache - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 01:56:11,180 [main] INFO Report_log4j_Apache - Clicked on search button
+2017-08-25 01:56:11,185 [main] INFO Report_log4j_Apache - Alert reference created
+2017-08-25 01:56:11,189 [main] INFO Report_log4j_Apache - Alert Message - Please select start place.
+2017-08-25 01:56:11,442 [main] INFO Report_log4j_Apache - Alert accepted
+2017-08-25 01:56:11,522 [main] INFO Report_log4j_Apache - Browser quit
+2017-08-25 02:03:04,506 [main] INFO Report_log4j_Apache - Browser started for testcase - Report_log4j_Apache
+2017-08-25 02:03:10,983 [main] INFO Report_log4j_Apache - Website started
+2017-08-25 02:03:10,992 [main] INFO Report_log4j_Apache - Home page heading: KSRTC Official Website for Online Bus Ticket Booking - KSRTC.in
+2017-08-25 02:03:11,299 [main] INFO Report_log4j_Apache - Clicked on search button
+2017-08-25 02:03:11,306 [main] INFO Report_log4j_Apache - Alert reference created
+2017-08-25 02:03:11,318 [main] INFO Report_log4j_Apache - Alert Message - Please select start place.
+2017-08-25 02:03:11,560 [main] INFO Report_log4j_Apache - Alert accepted
+2017-08-25 02:03:11,654 [main] INFO Report_log4j_Apache - Browser quit
+2017-08-25 04:03:27,263 [main] INFO coolTipManage - Started logging for testcase - coolTipManage
+2017-08-25 04:03:29,165 [main] INFO coolTipManage - Browser started
+2017-08-25 04:03:29,185 [main] INFO coolTipManage - Event object created
+2017-08-25 04:03:29,186 [main] INFO coolTipManage - Listener object created
+2017-08-25 04:03:29,186 [main] INFO coolTipManage - Register listener with event object
+2017-08-25 04:03:30,294 [main] INFO coolTipManage - Website started
+2017-08-25 04:03:30,308 [main] INFO coolTipManage - Page title printed as - "Create your Google Account"
+2017-08-25 04:03:30,711 [main] INFO coolTipManage - Filled value and clicked to get bubble
+2017-08-25 04:03:31,769 [main] INFO coolTipManage - Moved mouse to bubble
+2017-08-25 04:03:31,794 [main] INFO coolTipManage - Compared bubble text
+2017-08-25 04:03:31,868 [main] INFO coolTipManage - Website closed
+2017-08-25 04:03:31,869 [main] INFO coolTipManage - Unregister event handle from listener
