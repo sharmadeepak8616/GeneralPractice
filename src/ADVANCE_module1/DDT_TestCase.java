@@ -14,6 +14,9 @@ public class DDT_TestCase {
 	public void start()
 	{
 	//	DDT_Array.databank();
+		
+		System.out.println("To test git integration with Eclipse");
+		
 	}
 	
 	// If Test and DataProvider are in SAME file. :-  @Test (dataProvider = "source")
