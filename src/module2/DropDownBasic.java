@@ -8,6 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
@@ -42,11 +43,16 @@ public class DropDownBasic {
 		
 	}
 
-	public static void capture(WebDriver driver, String name) throws Exception
+	public static void capture(WebDriver driver, String name)
 	{
-		TakesScreenshot ts = (TakesScreenshot)driver;
-		File src = ts.getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(src, new File("./ScreenShots/"+name+".png"));
+		try {
+			TakesScreenshot ts = (TakesScreenshot)driver;
+			File src = ts.getScreenshotAs(OutputType.FILE);
+			FileUtils.copyFile(src, new File("./ScreenShots/"+name+".png"));
+		} catch (Exception e) {
+			System.out.println("Exception in Module2 -- DroDownBasic -- capture method");
+			System.out.println(e.getMessage());
+		}
 	}
 
 }
