@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="ADVANCE_module1.SendEmail_CommonsEmail_API">
+      <class name="module3.LogReport_TestNGListener">
         <methods>
-          <include name="sendEmail"/>
+          <include name="forcefullyFailingTest"/>
         </methods>
-      </class> <!-- ADVANCE_module1.SendEmail_CommonsEmail_API -->
+      </class> <!-- module3.LogReport_TestNGListener -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
