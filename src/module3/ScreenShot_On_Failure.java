@@ -37,7 +37,7 @@ public class ScreenShot_On_Failure {
 		{
 			takeScreenShot(driver, result.getName());
 		}
-		//driver.quit();
+		driver.quit();
 	}
 	
 	public static void takeScreenShot(WebDriver ldriver, String fileName)
