@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7719" started-at="2017-09-01T04:57:49Z" finished-at="2017-09-01T04:57:57Z">
+  <suite name="Default suite" duration-ms="34530" started-at="2017-09-14T11:02:37Z" finished-at="2017-09-14T11:03:12Z">
     <groups>
     </groups>
-    <test name="ChromeTestcase" duration-ms="6940" started-at="2017-09-01T04:57:49Z" finished-at="2017-09-01T04:57:56Z">
-      <class name="ADVANCE_module2.CrossBrowser">
-        <test-method status="PASS" signature="crossBrowserTesting(java.lang.String, java.lang.String)[pri:0, instance:ADVANCE_module2.CrossBrowser@5e3a8624]" name="crossBrowserTesting" duration-ms="6914" started-at="2017-09-01T00:57:49Z" finished-at="2017-09-01T00:57:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://demosite.center/wordpress/wp-login.php]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="34530" started-at="2017-09-14T11:02:37Z" finished-at="2017-09-14T11:03:12Z">
+      <class name="SeleniumGrid.TestOn_BrowserStack_ScreenShot">
+        <test-method status="PASS" signature="testOnBrowserStackWithScreenShot()[pri:0, instance:SeleniumGrid.TestOn_BrowserStack_ScreenShot@55f3ddb1]" name="testOnBrowserStackWithScreenShot" duration-ms="34507" started-at="2017-09-14T07:02:37Z" finished-at="2017-09-14T07:03:12Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- crossBrowserTesting -->
-      </class> <!-- ADVANCE_module2.CrossBrowser -->
-    </test> <!-- ChromeTestcase -->
-    <test name="FirefoxTestcase" duration-ms="7719" started-at="2017-09-01T04:57:49Z" finished-at="2017-09-01T04:57:57Z">
-      <class name="ADVANCE_module2.CrossBrowser">
-        <test-method status="PASS" signature="crossBrowserTesting(java.lang.String, java.lang.String)[pri:0, instance:ADVANCE_module2.CrossBrowser@18be83e4]" name="crossBrowserTesting" duration-ms="7693" started-at="2017-09-01T00:57:49Z" finished-at="2017-09-01T00:57:57Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://demosite.center/wordpress/wp-login.php]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- crossBrowserTesting -->
-      </class> <!-- ADVANCE_module2.CrossBrowser -->
-    </test> <!-- FirefoxTestcase -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- testOnBrowserStackWithScreenShot -->
+      </class> <!-- SeleniumGrid.TestOn_BrowserStack_ScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <parameter name="appUrl" value="http://demosite.center/wordpress/wp-login.php"/>
-  <test name="FirefoxTestcase(failed)">
-    <parameter name="browser" value="firefox"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="ADVANCE_module2.CrossBrowser">
+      <class name="SeleniumGrid.TestOn_BrowserStack">
         <methods>
-          <include name="crossBrowserTesting" invocation-numbers="0"/>
+          <include name="testOnBrowserStack"/>
         </methods>
-      </class> <!-- ADVANCE_module2.CrossBrowser -->
+      </class> <!-- SeleniumGrid.TestOn_BrowserStack -->
     </classes>
-  </test> <!-- FirefoxTestcase(failed) -->
-  <test name="ChromeTestcase(failed)">
-    <parameter name="browser" value="firefox"/>
-    <classes>
-      <class name="ADVANCE_module2.CrossBrowser">
-        <methods>
-          <include name="crossBrowserTesting" invocation-numbers="0"/>
-        </methods>
-      </class> <!-- ADVANCE_module2.CrossBrowser -->
-    </classes>
-  </test> <!-- ChromeTestcase(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
