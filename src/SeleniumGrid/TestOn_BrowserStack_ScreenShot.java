@@ -20,7 +20,9 @@ public class TestOn_BrowserStack_ScreenShot {
 		try
 		{
 			DesiredCapabilities cap = DesiredCapabilities.chrome();
-			
+			/*
+			 Platform can be one of MAC, WIN8, XP, WINDOWS, and ANY
+			 */			
 			cap.setPlatform(Platform.MAC);
 			cap.setCapability("browserstack.debug", "true");
 			
